@@ -2,6 +2,11 @@
 ;; Scheme
 ;;;;
 
+;; This setup enables interactive evaluation of Scheme code from Emacs
+;; directly.  See [the MIT-Scheme GNU Emacs interface
+;; documentation](https://groups.csail.mit.edu/mac/ftpdir/scheme-7.4/doc-html/user_7.html)
+;; for help with commands.
+
 (setq scheme-root "/Applications/MIT-Scheme.app/Contents/Resources")
 
 (setq scheme-program-name
